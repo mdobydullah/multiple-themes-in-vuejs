@@ -1,0 +1,11 @@
+:root {
+    --app-background-color: #FFFFFF;
+    --dynamic-title-color: #363636;
+    --dynamic-subtitle-color: #4a4a4a;
+}
+
+[theme="dark"] {
+    --app-background-color: #091A28;
+    --dynamic-title-color: #FFFFFF;
+    --dynamic-subtitle-color: cyan;
+}
