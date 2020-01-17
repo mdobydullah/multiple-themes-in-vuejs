@@ -1,5 +1,5 @@
 ## Multiple Themes in Vue.js
-Tutorial Link: [Create Day/Night, Light/Dark or Multiple Themes in Vue.js](https://www.mynotepaper.com/create-multiple-themes-in-vuejs.html)
+Tutorial Link: [Create Day/Night, Light/Dark or Multiple Themes in Vue.js](https://www.mynotepaper.com/create-multiple-themes-in-vuejs)
 
 ## Output
 ![multiple-themes-in-vuejs](https://user-images.githubusercontent.com/13184472/69820699-ea2e0680-122b-11ea-852c-fc408962b5eb.gif)
